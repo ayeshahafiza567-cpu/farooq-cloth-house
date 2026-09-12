@@ -270,7 +270,7 @@ function Home() {
 
             <p>
               <strong>Phone</strong>
-              0330-6235522
+              0300-6235522
             </p>
 
             <p>

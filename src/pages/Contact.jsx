@@ -60,7 +60,7 @@ function Contact() {
               </strong>
 
               <p>
-                0330-6235522
+                0300-6235522
               </p>
 
             </div>
