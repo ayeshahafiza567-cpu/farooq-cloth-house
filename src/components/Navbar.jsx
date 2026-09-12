@@ -22,7 +22,7 @@ function Navbar() {
           <span>CLOTH HOUSE</span>
         </Link>
 
-        {/* DESKTOP NAVIGATION */}
+        {/* NAVIGATION */}
         <nav
           className={`nav-links ${
             menuOpen ? "show-menu" : ""
@@ -78,16 +78,15 @@ function Navbar() {
           Order Online
         </a>
 
-        {/* MOBILE HAMBURGER */}
+        {/* MOBILE 3-LINE HAMBURGER */}
         <button
           type="button"
           className={`menu-btn ${
             menuOpen ? "menu-active" : ""
           }`}
-          onClick={() =>
-            setMenuOpen(!menuOpen)
-          }
+          onClick={() => setMenuOpen(!menuOpen)}
           aria-label="Toggle navigation menu"
+          aria-expanded={menuOpen}
         >
           <span></span>
           <span></span>
