@@ -66,7 +66,7 @@ function Footer() {
           <p>0322-5963722</p>
 
           <a
-            href="https://wa.me/923306235522"
+            href="https://wa.me/923006235522"
             target="_blank"
             rel="noreferrer"
           >

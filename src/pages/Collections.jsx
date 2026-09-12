@@ -123,7 +123,7 @@ function Collections() {
           <h2>Need help choosing a suit?</h2>
 
           <a
-            href="https://wa.me/923306235522"
+            href="https://wa.me/923006235522"
             target="_blank"
             rel="noreferrer"
             className="btn-gold"
